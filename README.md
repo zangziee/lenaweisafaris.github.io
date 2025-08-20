@@ -1,6 +1,6 @@
-# Lenawei Safaris - World-Class Safari Website
+# LENAWEI SAFARIS
 
-Welcome to Lenawei Safaris! This is an ultra-detailed, visually stunning, fully responsive, and accessible single-page website for a luxury safari and travel experience.
+Welcome to Lenawei Safaris.
 
 ---
 
